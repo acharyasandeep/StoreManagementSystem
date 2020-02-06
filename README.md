@@ -10,5 +10,5 @@ A simple store management system made using C programming language as a project 
 
 Contributors: 
 *Sandeep Acharya 
-*Saujan Tiwari
+Saujan Tiwari
            
