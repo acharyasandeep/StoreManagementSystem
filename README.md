@@ -9,6 +9,6 @@ A simple store management system made using C programming language as a project 
                 Password: "project"
 
 Contributors: 
-              -Sandeep Acharya 
-              -Saujan Tiwari
+*Sandeep Acharya 
+*Saujan Tiwari
            
