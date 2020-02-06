@@ -1,5 +1,5 @@
 # StoreManagementSystem
 A simple store management system made using C programming language as a project work for the first semester. 
-Contributors: Sandeep Acharya
+Contributors: Sandeep Acharya and
               Saujan Tiwari
            
