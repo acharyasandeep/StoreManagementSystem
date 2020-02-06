@@ -6,7 +6,7 @@ A simple store management system made using C programming language as a project 
 3. Use the username and passowrd as specified below 
                 
                 Username: "admin"
-                Passowrd: "project"
+                Password: "project"
 
 Contributors: 
               -Sandeep Acharya 
